@@ -1,0 +1,707 @@
+[
+    {
+        "card_id": "900708848474",
+        "nama": "Vicky Fakhruriezha",
+        "jurusan": "Mekatronika",
+        "angkatan": "3",
+        "waktu_presensi": "2025-10-23 14:59:49",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.7655589580535889,
+            "NAME TAG": 0.7952210307121277,
+            "PIN CITA CITA": 0.7170090079307556
+        },
+        "timestamp": "2025-10-23T14:59:56.472208",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "900708848474",
+        "nama": "Vicky Fakhruriezha",
+        "jurusan": "Mekatronika",
+        "angkatan": "3",
+        "waktu_presensi": "2025-10-23 15:00:06",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "NAME TAG": 0.6891700625419617,
+            "PIN CITA CITA": 0.7341307401657104,
+            "ID CARD": 0.8764854073524475
+        },
+        "timestamp": "2025-10-23T15:00:14.066519",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "6616323776",
+        "nama": "Josua",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 15:00:29",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.9051876068115234,
+            "PIN CITA CITA": 0.8914244174957275
+        },
+        "timestamp": "2025-10-23T15:00:36.481348",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "900507915100",
+        "nama": "Budiman",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 15:01:31",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.9216006398200989,
+            "PIN CITA CITA": 0.8099045157432556
+        },
+        "timestamp": "2025-10-23T15:01:39.193664",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "900507915100",
+        "nama": "Budiman",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 15:01:48",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.864881157875061
+        },
+        "timestamp": "2025-10-23T15:01:55.875626",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "8208193217",
+        "nama": "Yunika Nika",
+        "jurusan": "Animasi",
+        "angkatan": "1",
+        "waktu_presensi": "2025-10-23 15:04:22",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.8840636014938354,
+            "NAME TAG": 0.8563265800476074,
+            "PIN CITA CITA": 0.7026174068450928
+        },
+        "timestamp": "2025-10-23T15:04:29.425886",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "6616323776",
+        "nama": "Josua",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 15:05:36",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.8785573840141296,
+            "NAME TAG": 0.8187976479530334,
+            "PIN CITA CITA": 0.6785657405853271
+        },
+        "timestamp": "2025-10-23T15:05:43.585110",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 15:06:21",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "PIN CITA CITA": 0.9436464905738831,
+            "ID CARD": 0.9310283064842224,
+            "NAME TAG": 0.7763075828552246
+        },
+        "timestamp": "2025-10-23T15:06:28.097672",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 15:06:39",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "PIN CITA CITA": 0.9410504102706909,
+            "ID CARD": 0.9009835124015808,
+            "NAME TAG": 0.8016860485076904
+        },
+        "timestamp": "2025-10-23T15:06:46.657582",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 16:09:33",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.923259437084198,
+            "NAME TAG": 0.9295888543128967,
+            "PIN CITA CITA": 0.663566529750824
+        },
+        "timestamp": "2025-10-23T16:09:40.750970",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-23 16:09:49",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.9013433456420898,
+            "NAME TAG": 0.9213812947273254,
+            "PIN CITA CITA": 0.6346833109855652
+        },
+        "timestamp": "2025-10-23T16:09:57.075806",
+        "tanggal": "2025-10-23"
+    },
+    {
+        "card_id": "900708848474",
+        "nama": "Vicky Fakhruriezha",
+        "jurusan": "Mekatronika",
+        "angkatan": "3",
+        "waktu_presensi": "2025-10-24 07:02:51",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.872545063495636,
+            "NAME TAG": 0.7801237106323242,
+            "PIN CITA CITA": 0.8180763721466064
+        },
+        "timestamp": "2025-10-24T07:02:59.394526",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "8208193217",
+        "nama": "Yunika Nika",
+        "jurusan": "Animasi",
+        "angkatan": "1",
+        "waktu_presensi": "2025-10-24 07:14:05",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {},
+        "timestamp": "2025-10-24T07:14:13.096102",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 08:35:19",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "NAME TAG",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "PIN CITA CITA": 0.8903931975364685,
+            "NAME TAG": 0.8426377773284912,
+            "ID CARD": 0.9032765030860901
+        },
+        "timestamp": "2025-10-24T08:35:26.685372",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 08:35:43",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "NAME TAG",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.9117718935012817,
+            "PIN CITA CITA": 0.8968637585639954,
+            "NAME TAG": 0.8343407511711121
+        },
+        "timestamp": "2025-10-24T08:35:50.507289",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "900507915100",
+        "nama": "Budiman",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 08:36:27",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {
+            "NAME TAG": 0.8057788014411926,
+            "PIN CITA CITA": 0.5047516226768494,
+            "ID CARD": 0.8117856979370117
+        },
+        "timestamp": "2025-10-24T08:36:30.493668",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "6616323776",
+        "nama": "Josua",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 08:37:15",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {
+            "NAME TAG": 0.7854186296463013,
+            "PIN CITA CITA": 0.351226270198822,
+            "ID CARD": 0.8721314668655396
+        },
+        "timestamp": "2025-10-24T08:37:16.133288",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "900708848474",
+        "nama": "Vicky Fakhruriezha",
+        "jurusan": "Mekatronika",
+        "angkatan": "3",
+        "waktu_presensi": "2025-10-24 08:53:18",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "NAME TAG"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "PIN CITA CITA"
+        ],
+        "confidence_scores": {
+            "NAME TAG": 0.8389620780944824,
+            "ID CARD": 0.5544856786727905
+        },
+        "timestamp": "2025-10-24T08:53:25.837714",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "359425246611",
+        "nama": "Putri Alma Febriyanti",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 09:12:24",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "PIN CITA CITA",
+            "NAME TAG"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.8810718059539795,
+            "NAME TAG": 0.7882891297340393,
+            "PIN CITA CITA": 0.7851808667182922
+        },
+        "timestamp": "2025-10-24T09:12:31.416431",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "770585199535",
+        "nama": "Safinatul Jannah",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 11:10:37",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {},
+        "timestamp": "2025-10-24T11:10:44.232111",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "659968627216",
+        "nama": "M.Yazdan Nadzef X",
+        "jurusan": "Mekatronika",
+        "angkatan": "3",
+        "waktu_presensi": "2025-10-24 12:55:30",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "ID CARD",
+            "NAME TAG",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "PIN CITA CITA": 0.9152381420135498,
+            "ID CARD": 0.8777406811714172,
+            "NAME TAG": 0.8546383380889893
+        },
+        "timestamp": "2025-10-24T12:55:37.134503",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "700471117284",
+        "nama": "Klara Pramesti Wulandari",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 14:46:20",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.7867199182510376
+        },
+        "timestamp": "2025-10-24T14:46:27.162009",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "495842231170",
+        "nama": "Meia Wahyu Izzatun Nisa",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-24 17:36:35",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "PIN CITA CITA"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.796782374382019,
+            "NAME TAG": 0.6333737969398499
+        },
+        "timestamp": "2025-10-24T17:36:42.938698",
+        "tanggal": "2025-10-24"
+    },
+    {
+        "card_id": "900708848474",
+        "nama": "Vicky Fakhruriezha",
+        "jurusan": "Mekatronika",
+        "angkatan": "3",
+        "waktu_presensi": "2025-10-26 11:18:41",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {},
+        "timestamp": "2025-10-26T11:18:48.183098",
+        "tanggal": "2025-10-26"
+    },
+    {
+        "card_id": "900507915100",
+        "nama": "Budiman",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-26 11:20:17",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {},
+        "timestamp": "2025-10-26T11:20:25.148969",
+        "tanggal": "2025-10-26"
+    },
+    {
+        "card_id": "8208193217",
+        "nama": "Yunika Nika",
+        "jurusan": "Animasi",
+        "angkatan": "1",
+        "waktu_presensi": "2025-10-26 11:58:16",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {},
+        "timestamp": "2025-10-26T11:58:23.211352",
+        "tanggal": "2025-10-26"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-26 11:59:08",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "confidence_scores": {},
+        "timestamp": "2025-10-26T11:59:15.631176",
+        "tanggal": "2025-10-26"
+    },
+    {
+        "card_id": "770585199535",
+        "nama": "Safinatul Jannah",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-26 11:59:55",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "PIN CITA CITA"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.8391926884651184,
+            "NAME TAG": 0.797645628452301
+        },
+        "timestamp": "2025-10-26T12:00:02.233711",
+        "tanggal": "2025-10-26"
+    },
+    {
+        "card_id": "900507915100",
+        "nama": "Budiman",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-27 06:24:56",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.8932158350944519,
+            "NAME TAG": 0.8242019414901733,
+            "PIN CITA CITA": 0.8992148637771606
+        },
+        "timestamp": "2025-10-27T06:25:03.902455",
+        "tanggal": "2025-10-27"
+    },
+    {
+        "card_id": "495842231170",
+        "nama": "Meia Wahyu Izzatun Nisa",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-27 07:12:04",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "NAME TAG"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.8476266860961914,
+            "PIN CITA CITA": 0.5929501056671143
+        },
+        "timestamp": "2025-10-27T07:12:11.994778",
+        "tanggal": "2025-10-27"
+    },
+    {
+        "card_id": "770585199535",
+        "nama": "Safinatul Jannah",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-27 07:12:19",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "ID CARD": 0.8714685440063477,
+            "NAME TAG": 0.8990694284439087,
+            "PIN CITA CITA": 0.9232215285301208
+        },
+        "timestamp": "2025-10-27T07:12:26.859246",
+        "tanggal": "2025-10-27"
+    },
+    {
+        "card_id": "6616323776",
+        "nama": "Josua",
+        "jurusan": "Pemesinan",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-27 07:13:37",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "PIN CITA CITA",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "PIN CITA CITA": 0.8926925659179688,
+            "NAME TAG": 0.8865282535552979,
+            "ID CARD": 0.8239340782165527
+        },
+        "timestamp": "2025-10-27T07:13:45.008801",
+        "tanggal": "2025-10-27"
+    },
+    {
+        "card_id": "968770343691",
+        "nama": "Rehan Putra",
+        "jurusan": "Ototronik",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-27 07:13:54",
+        "status": "GAGAL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [
+            "PIN CITA CITA"
+        ],
+        "confidence_scores": {
+            "ID CARD": 0.8378508687019348,
+            "NAME TAG": 0.8449629545211792
+        },
+        "timestamp": "2025-10-27T07:14:01.412995",
+        "tanggal": "2025-10-27"
+    },
+    {
+        "card_id": "8208193217",
+        "nama": "Yunika Nika",
+        "jurusan": "Animasi",
+        "angkatan": "1",
+        "waktu_presensi": "2025-10-27 07:17:18",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "NAME TAG": 0.8218050003051758,
+            "ID CARD": 0.8511757850646973,
+            "PIN CITA CITA": 0.8127043843269348
+        },
+        "timestamp": "2025-10-27T07:17:25.390511",
+        "tanggal": "2025-10-27"
+    },
+    {
+        "card_id": "359425246611",
+        "nama": "Putri Alma Febriyanti",
+        "jurusan": "Mekatronika",
+        "angkatan": "2",
+        "waktu_presensi": "2025-10-27 08:23:43",
+        "status": "BERHASIL",
+        "atribut_terdeteksi": [
+            "NAME TAG",
+            "ID CARD",
+            "PIN CITA CITA"
+        ],
+        "atribut_tidak_terdeteksi": [],
+        "confidence_scores": {
+            "NAME TAG": 0.884247899055481,
+            "ID CARD": 0.8905829191207886,
+            "PIN CITA CITA": 0.8779302835464478
+        },
+        "timestamp": "2025-10-27T08:23:51.111787",
+        "tanggal": "2025-10-27"
+    }
+]
